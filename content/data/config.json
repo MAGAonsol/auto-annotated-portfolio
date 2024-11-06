@@ -31,6 +31,14 @@
                 "type": "Social",
                 "label": "Facebook",
                 "altText": "",
+                "url": "r/MakeAssesGoAround",
+                "icon": "reddit",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
                 "url": "https://x.com/MAGAassonsol",
                 "icon": "twitter",
                 "elementId": ""
